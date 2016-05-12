@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1458401818 source:/home/alex/MSU/Inform/Third/Class/5/4/main.cpp
+	<iostream>
+	<math.h>
+	<string>
+	<algorithm>
+	<sstream>
+	<vector>
+

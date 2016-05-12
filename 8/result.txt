@@ -1,0 +1,3 @@
+inp Alex 4 4 4 4 4
+inp Ira 5 5 5 5
+denkrut Sasha 5 5 5 5 5 5
